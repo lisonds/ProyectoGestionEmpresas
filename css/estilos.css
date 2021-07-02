@@ -26,7 +26,8 @@
 .label-danger {
         background-color: #d9534f;
     }
+.heading { 
+        color: #27037a; 
+        font-size:25px;
 
-
-
-
+    } 
